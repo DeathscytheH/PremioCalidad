@@ -1,6 +1,8 @@
 #Premio Region Lagunera Hacia la Calidad
+
 ##Tema 2
 ###Reflexion Estrategica
+
 ##Taller 2
 ###Analisis del entorno
 
@@ -86,9 +88,32 @@ _Seguridad_
 
 2. Desarrolla objetivos a partir de las palabras claves que detectaste en el punto anterior.
 
-[Mejorar pagina web](http://www.arkebit.com)
+Objetivo [Mejorar pagina web](http://www.arkebit.com)
 
 3. Constrata los objetivos que se desplegaron de tu Vision y Mision contra los que tu organizacion tiene declarados.
 
 4. Analiza si lo declarado en la mision y vision de la organizacion se cimplen o ya se cumplieron a traves de los objetivos planteados o es una vision inalcanzable.
 
+
+####Que se entiende por vision?
+
+#####Definiciones
+
+1. Conjunto de posibles imagenes que nos gustaria que sucedan. En nuestras mentes esas imagenenes representan logros excepcionales, valores, creencias, retos, metas.
+
+2. Es una panoramica de lo que, en un sentido amplio, quiere ser una empresa y aquillo que pretende lograr en ultima instancia.
+
+3. Es un futro realista, creible y atractivo para tu organizacion.
+
+La vision compartida en una imagen demandada de una premesa de tierra prometida que inspira al entusiasmo y exitacion a la gente cuando ellos vienen a trabajar.
+
+#### Tres Fundamentos
+
+Es la parte mas laboriosa y en la cual se debe integrar la Alta direccion y el Comite de Planeacion.
+
+1. Evaluacion cualitativa y cuantitativa de la Mision y la Vision Actual.
+2. Analisis de la macrotendencias Politicas, Economicas, Sociales, Tecnologicas. PEST
+3. Analisis de las tendencias del sector y/o segmento del mercado local, regioal y nacional y/o mundial.
+4. Evaluacion sobre factores basicos de la competencia local, regional y nacional.
+5. Consulta a expertos. Documental, encuestas.
+6. Un FODA, orientado tanto al modelo de negocios (personal, clientes, grupos de interes, etc) asi como a la estructura financiera, administrativa e infraestrucutra que lo soporta (recursos y capacidades)
