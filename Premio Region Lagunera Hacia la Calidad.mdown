@@ -109,7 +109,7 @@ La vision compartida en una imagen demandada de una premesa de tierra prometida 
 
 #### Tres Fundamentos
 
-Es la parte mas laboriosa y en la cual se debe integrar la Alta direccion y el Comite de Planeacion.
+######Es la parte mas laboriosa y en la cual se debe integrar la Alta direccion y el Comite de Planeacion.
 
 1. Evaluacion cualitativa y cuantitativa de la Mision y la Vision Actual.
 2. Analisis de la macrotendencias Politicas, Economicas, Sociales, Tecnologicas. PEST
@@ -117,3 +117,13 @@ Es la parte mas laboriosa y en la cual se debe integrar la Alta direccion y el C
 4. Evaluacion sobre factores basicos de la competencia local, regional y nacional.
 5. Consulta a expertos. Documental, encuestas.
 6. Un FODA, orientado tanto al modelo de negocios (personal, clientes, grupos de interes, etc) asi como a la estructura financiera, administrativa e infraestrucutra que lo soporta (recursos y capacidades)
+
+####1.1.2 Entendimiento del entorno de la organizacion
+
+Sabemos lo que nos depara el futuro?
+Es claro el rumbo de mi empresa?
+
+######Retos que el entorno presenta
+
+Para la definicion del rumbo, los lideres deben tener caracteristicas y competencias especificas para identificar los retos que el entorno presenta a su organizacion y establecer estrategias para enfrentarlos.
+
