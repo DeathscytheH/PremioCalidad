@@ -142,8 +142,6 @@ _Identificar competidores._
 
 ######Analisis estrategico externo.
 
-![Mother Hubber Cat!!!](https://octodex.github.com/images/motherhubbertocat.png)
-
 Factores 				Hoy 				Tendencias
 
 Politicos				
