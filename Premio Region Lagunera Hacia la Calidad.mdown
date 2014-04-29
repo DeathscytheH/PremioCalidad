@@ -121,9 +121,39 @@ La vision compartida en una imagen demandada de una premesa de tierra prometida 
 ####1.1.2 Entendimiento del entorno de la organizacion
 
 Sabemos lo que nos depara el futuro?
+
 Es claro el rumbo de mi empresa?
 
 ######Retos que el entorno presenta
 
 Para la definicion del rumbo, los lideres deben tener caracteristicas y competencias especificas para identificar los retos que el entorno presenta a su organizacion y establecer estrategias para enfrentarlos.
 
+######Exito empresarial.
+
+El exito de una empresa depende en buena parte de como esta se relacione con su entorno, pues el  contexto en el que se mueve puede ayudar o dificultar la toma de descisiones estrategicas y, desde luego, su operacion.
+
+De ahi la necesidad de tener en cuenta las condiciones y factores que la rodean para formular la estrategia de la empresa y crear una que de respuesta a las demandas de los agentes externos.
+
+######Entorno empresarial.
+
+El entorno del negocio y del futuro de empresa son aquellos factores del medio ambiente externo que pueden afectar directa o indirectamente, su creacion, desarrollo y sostenibilidad a corto, mediano y largo plazo.
+
+_Identificar competidores._
+
+######Analisis estrategico externo.
+
+![Mother Hubber Cat!!!](https://octodex.github.com/images/motherhubbertocat.png)
+
+Factores 				Hoy 				Tendencias
+
+Politicos				
+Economicos				
+Sociales				Cultura, Ego
+Tecnologicos			Capacitaciones
+						
+Legislativas			
+Regulatorias			
+Industria				
+Sector					
+
+####Tarea prox semana. Redactar puntos del formato.
