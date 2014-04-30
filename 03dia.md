@@ -60,31 +60,24 @@ Que es importante para nosotros?
 
 **Principios:**
 
-_Seguridad_
-
-_Aprendizaje_
+* _Seguridad_
+* _Aprendizaje_
 
 **Valores:**
 
-_Confidencialidad_
-
-_Diciplina_
-
-_Lealtad_
-
-_Colaboracion_
+* _Confidencialidad_
+* _Diciplina_
+* _Lealtad_
+* _Colaboracion_
 
 ###Ejercicio: _Analisis de la Mision y la Vision_
 
 1. Marca las palabras claves que detectas en la declaracion de tu vision y mision.
 
-_Innovacion_
-
-_Paradigmas_
-
-_Soluciones_
-
-_Seguridad_
+	* _Innovacion_
+	* _Paradigmas_
+	* _Soluciones_
+	* _Seguridad_
 
 2. Desarrolla objetivos a partir de las palabras claves que detectaste en el punto anterior.
 
