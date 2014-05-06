@@ -76,4 +76,18 @@ analasis comparativo con la competencia directa 	importancia para el cliente
 * Poca disponibilidad del producto
 * Mercado muy competitivo
 
+####Factores clave para el exito comptetitivo en el sector
 
+#####Fuerzas competitivas
+
+**Rivalidad competencia actual**
+
+**Competidores potenciales**
+**Productos sustitutos**
+**Poder de negociacion de los proveedores**
+**Poder de negociacion de los clientes**
+
+####Riesgos
+
+Identificarlos
+De que manera puedo prevenirlos
