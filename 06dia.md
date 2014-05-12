@@ -43,4 +43,3 @@
 Que puedo hacer para mitigar el riesgo?
 
 Surgen lineas de accion. Se crean semaforos. A mayor cantidad de luces rojas, son estrategias de supervivencia. A mayor cantidad de luces verdes, son estrategias de expansion.
-
